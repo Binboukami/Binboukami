@@ -1,10 +1,49 @@
-<h3 align="center">Web Development</h3>
-<h4 align="center">Front end</h4>
-<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
-<h4 align="center">Back end & Devops</h4>
-<p align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
-<h4 align="center">Learning</h4>
-<p align="center"> <a href="https://webassembly.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" alt="webassembly width="40" height="40" /> </a> <a href=""https://www.assemblyscript.org/><img src="https://seeklogo.com/images/A/assemblyscript-logo-9C04F2E860-seeklogo.com.png" width="40" height="40"/></a> </p>
+<h3 align="center">Hi, 🤙 i am Luiz A. Butkeivicz</h2>
+<h5 align="center">Typescript Web developer | UX Designer</h5>
 
-<h3 align="center">Software Development</h3>
-<p align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></p>
+<br />
+
+<br />
+
+<p>21years old brazillian web developer with a soft spot for UX.</p>
+
+<br />
+
+
+- 👨‍💻 Currently studying **React**, **NextJs** and **AdonisJs**
+- 💬 Let's have a talk: you can email me [here](luiz.butkeivicz@gmail.com) or send me a message on my social media below
+- ⚡ Fun facts: I love Cats 🐱, Coffee ☕ and playing Final Fantasy XIV 🎮
+
+<h4 align="start">Technologies</h4>
+
+[<img align="left" alt="NodeJs" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin: 0 8px 0 8px"/>][node]
+[<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="margin: 0 8px 0 8px"/>][typescript]
+[<img align="left" alt="VueJs" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][vuejs]
+[<img align="left" alt="NuxtJs" width="22px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="margin: 0 8px 0 8px"/>][nuxtjs]
+[<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][mysql]
+[<img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][docker]
+
+  
+<br />
+
+<h4>Connect with me</h4>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin: 0 8px 0 8px"/>][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="margin: 0 8px 0 8px" />][github]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="margin: 0 8px 0 8px"/>][instagram]
+<!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin: 0 8px 0 8px"/>][twitter] -->
+
+<br />
+<hr />
+
+
+[typescript]: https://www.typescriptlang.org/
+[vuejs]: https://vuejs.org/
+[nuxtjs]: https://nuxtjs.org/
+[mysql]: https://www.mysql.com/
+[docker]: https://www.docker.com/
+[node]: https://nodejs.org
+
+[linkedin]: https://linkedin.com/in/luiz-a-butkeivicz
+[instagram]: https://www.instagram.com/l.alex_vicz/
+[github]: https://github.com/Binboukami
