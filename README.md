@@ -41,7 +41,7 @@
 [typescript]: https://www.typescriptlang.org/
 [vuejs]: https://vuejs.org/
 [nuxtjs]: https://nuxtjs.org/
-[adonisjs] https://adonisjs.com/
+[adonisjs]: https://adonisjs.com/
 [mysql]: https://www.mysql.com/
 [docker]: https://www.docker.com/
 [node]: https://nodejs.org
