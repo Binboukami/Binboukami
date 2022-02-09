@@ -20,7 +20,7 @@
 [<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="margin: 0 8px 0 8px"/>][typescript]
 [<img align="left" alt="VueJs" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][vuejs]
 [<img align="left" alt="NuxtJs" width="22px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="margin: 0 8px 0 8px"/>][nuxtjs]
-[<img align="left" alt="AdonisJs" width="25px" src="https://avatars.githubusercontent.com/u/13810373?s=400&v=4" style="margin: 0 8px 0 8px"/>][nuxtjs]
+[<img align="left" alt="AdonisJs" width="25px" src="https://avatars.githubusercontent.com/u/13810373?s=400&v=4" style="margin: 0 8px 0 8px"/>][adonisjs]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][mysql]
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][docker]
 
@@ -41,6 +41,7 @@
 [typescript]: https://www.typescriptlang.org/
 [vuejs]: https://vuejs.org/
 [nuxtjs]: https://nuxtjs.org/
+[adonisjs] https://adonisjs.com/
 [mysql]: https://www.mysql.com/
 [docker]: https://www.docker.com/
 [node]: https://nodejs.org
