@@ -10,7 +10,7 @@
 <br />
 
 
-- 👨‍💻 Currently studying **Service and Web Workers**, **Caching** and **Unit Testing with MochaJs**
+- 👨‍💻 Currently studying **Service and Web Workers**, **Caching**, **Webpack** and **Unit Testing with JestJs**
 - 💬 Let's have a talk: you can email me [here](luiz.butkeivicz@gmail.com) or send me a message on my social media below
 - ⚡ Fun facts: I love Cats 🐱, Coffee ☕ and playing Final Fantasy XIV 🎮
 
