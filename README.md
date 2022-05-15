@@ -5,7 +5,7 @@
 
 <br />
 
-<p>21 years old brazillian web developer with a soft spot for UX.</p>
+<p>21 years old brazillian web developer with a soft spot for UX and graphics related technologies.</p>
 
 <br />
 
