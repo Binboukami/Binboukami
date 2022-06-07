@@ -1,5 +1,5 @@
 <h3 align="center">Hi, 🤙 i am Luiz A. Butkeivicz</h2>
-<h5 align="center">Typescript Web developer | UX Designer</h5>
+<h5 align="center">Typescript Web developer | Graphics Programmer | UX Designer</h5>
 
 <br />
 
@@ -10,7 +10,7 @@
 <br />
 
 
-- 👨‍💻 Currently studying **Service and Web Workers**, **Caching** and **Managing video technologies on the web**
+- 👨‍💻 Currently studying **E2E Testing** and **Graphics programming on the web with WebGL**
 - 💬 Let's have a talk: you can email me [here](luiz.butkeivicz@gmail.com) or send me a message on my social media below
 - ⚡ Fun facts: I love Cats 🐱, Coffee ☕ and playing Final Fantasy XIV 🎮
 
