@@ -1,5 +1,5 @@
 <h3 align="center">Hi, 🤙 i am Luiz A. Butkeivicz</h2>
-<h5 align="center">Typescript Web developer | Graphics Programmer | UX Designer</h5>
+<h5 align="center">Typescript and PHP Web developer | Graphics Programmer | UX Designer</h5>
 
 <br />
 
