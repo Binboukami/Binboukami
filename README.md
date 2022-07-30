@@ -14,7 +14,6 @@
 - 💬 Let's have a talk: you can email me [here](luiz.butkeivicz@gmail.com) or send me a message on my social media below
 - ⚡ Fun facts: I love Cats 🐱, Coffee ☕ and playing Final Fantasy XIV 🎮
 
-https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg
 <h4 align="start">Technologies</h4>
 
 [<img align="left" alt="NodeJs" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin: 0 8px 0 8px"/>][node]
