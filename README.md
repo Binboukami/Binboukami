@@ -5,12 +5,12 @@
 
 <br />
 
-<p>21 years old brazillian web developer with a soft spot for UX and graphics related technologies.</p>
+<p>22 years old brazillian web developer with a soft spot for UX and graphics related technologies.</p>
 
 <br />
 
 
-- 👨‍💻 Currently studying **E2E Testing** and **Graphics programming on the web with WebGL**
+- 👨‍💻 Currently studying and **Graphics programming on the web with WebGL** and **C#**
 - 💬 Let's have a talk: you can email me [here](luiz.butkeivicz@gmail.com) or send me a message on my social media below
 - ⚡ Fun facts: I love Cats 🐱, Coffee ☕ and playing Final Fantasy XIV 🎮
 
